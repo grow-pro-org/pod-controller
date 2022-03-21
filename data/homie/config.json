@@ -1,0 +1,19 @@
+{
+    "name": "Pod Controller",
+    "device_id": "pod-controller",
+    "device_stats_interval": 60,
+    "wifi": {
+      "ssid": "????",
+      "password": "????"
+    },
+    "mqtt": {
+      "host": "Where is your mqtt broker running? (192.168.4.1)",
+      "port": 1883
+    },
+    "ota": {
+      "enabled": false
+    },
+    "settings": {
+      "percentage": 55
+    }
+  }
